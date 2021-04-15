@@ -1,2 +1,0 @@
-# ueq
-Unified exam question
